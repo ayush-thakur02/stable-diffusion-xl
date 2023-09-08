@@ -75,9 +75,10 @@ media.show_images(images)
 images[0].save("output.jpg")
 ```
 
-# Output
-<img src="https://i.ibb.co/HTNv4Wb/download.png" alt="download" border="0">
+# Output 1024x1024 (Default)
 <img src="https://i.ibb.co/HNVjc1x/download.png" alt="download" border="0">
+<img src="https://i.ibb.co/m5r4FgB/download.png" alt="download" border="0">
+<img src="https://i.ibb.co/bNVcFbf/download.png" alt="download" border="0">
 <img src="https://i.ibb.co/5vPXB0X/download.png" alt="download" border="0">
 
 # Contribute
