@@ -1,6 +1,6 @@
 <div align="center" markdown="1">
 
-# Stable Diffusion XL Model
+# Stable Diffusion XL Model 
 
 [![Static Badge](https://img.shields.io/badge/Python_v3-gray)](https://github.com/ayush-thakur02/stable-diffusion-xl)
 [![Stable Diffuison](https://img.shields.io/badge/File_Version-v1.0-blue)](https://github.com/ayush-thakur02/stable-diffusion-xl)
@@ -15,9 +15,8 @@ This Git Repo contains python notebook that is designed for running the Stable D
 </div>
 
 <div align="center" markdown="1">
-    
 
-# Setup
+# Setup 👨‍💻
 
 You can Also Try on Google Colab for free. Open Notebook:
 
