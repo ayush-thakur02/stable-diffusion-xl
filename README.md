@@ -8,20 +8,25 @@
 
 </div>
 
-This Git Repo contains python notebook that is designed for running the Stable Diffusion XL Model on Google Colab with a T4 GPU. This open-source model is entirely free for you to use as much as you'd like, enabling you to generate an unlimited number of high-quality AI images surpassing those from the mid-journey. Don't forget to share this resource with your friends, and happy generating!
+<div align="justify" markdown="1">
 
-**Make Sure to follow me:**
+This Git Repo contains python notebook that is designed for running the Stable Diffusion XL Model on Google Colab with a T4 GPU. This open-source model is entirely free for you to use as much as you'd like, enabling you to generate an unlimited number of high quality AI images surpassing those from the mid-journey. Don't forget to share this resource with your friends, and happy generating!
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
-[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
+</div>
 
 <div align="center" markdown="1">
+    
 
 # Setup
 
 You can Also Try on Google Colab for free. Open Notebook:
 
 [![Colab](https://img.shields.io/badge/Open_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1qwHpJsAW006ZCZCvt-GVA_VUERZvizag?usp=sharing)
+
+Make Sure to follow me:
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 
 </div>
 
